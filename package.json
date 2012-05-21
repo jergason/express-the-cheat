@@ -9,5 +9,9 @@
   "optionalDependencies": {},
   "engines": {
     "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jergason/express-the-cheat.git"
   }
 }
