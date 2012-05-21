@@ -1,0 +1,13 @@
+{
+  "author": "Jamison Dance <jergason@gmail.com> (http://jamisondance.com)",
+  "name": "express-the-cheat",
+  "description": "An express middleware that lets everyone know your app is powered by the Cheat.",
+  "version": "0.0.1",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
