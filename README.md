@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/jergason/express-the-cheat.png)](http://travis-ci.org/jergason/express-the-cheat)
 #express-the-cheat
 
 Do you use [Express](http://expressjs.com/)?
